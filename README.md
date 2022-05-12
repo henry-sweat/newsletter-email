@@ -1,4 +1,4 @@
 # newsletter-email
 
-notes:\n
+notes:/n
 hi
